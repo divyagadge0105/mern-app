@@ -1,0 +1,19 @@
+# Node modules (IMPORTANT)
+node_modules
+client/node_modules
+server/node_modules
+
+# Build folders
+client/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables (optional)
+.env
